@@ -13,3 +13,5 @@ Install python dependencies:
 
 Launch it:
 `voila distribution_plot.ipynb`
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alxbck/distribution_plot/HEAD?urlpath=voila%2Frender%2Fdistribution_plot.ipynb)
